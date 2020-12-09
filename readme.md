@@ -6,7 +6,12 @@ I will also update my weekly study plan here.
 
 ## program analysis & vulnerability Papers
 
-+ [SoK Eternal War in Memory](program analysis & vulnerability\SoK Eternal War in Memory.md)
++ SoK Eternal War in Memory
+
+  概述：
+
+  论文笔记：[click here](program analysis & vulnerability\SoK Eternal War in Memory.md)
+
 + The geometry of innocent flesh on the bone return-into-libc without function calls (on the x86)
 
 ## Fuzz
@@ -17,5 +22,7 @@ I will also update my weekly study plan here.
 
 ## My Study Plan
 
-+ [2020 weekly study plan](Weekly Study Plan/2020-weekly-study-plan.md) 
++ 2020 weekly study plan
+
+  [click here](Weekly Study Plan\2020-weekly-study-plan.md)
 
