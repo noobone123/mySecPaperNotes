@@ -18,4 +18,3 @@ I will also update my weekly study plan here.
 ## My Study Plan
 
 + [2020 weekly study plan](./WeeklyStudyPlan/2020-weekly-study-plan.md)
-
