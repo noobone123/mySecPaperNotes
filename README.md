@@ -12,9 +12,3 @@ I will also update my weekly study plan here.
 ## Fuzz
 
 + [The Art, Science, and Engineering of Fuzzing A Survey](./Fuzz/The_Art_Science_and_Engineering_of_Fuzzing_A_Survey.md)
-
-
-
-## My Study Plan
-
-+ [2020 weekly study plan](./WeeklyStudyPlan/2020-weekly-study-plan.md)
