@@ -2,8 +2,6 @@
 
 my Paper notes of exploit/Fuzz/malware and other interesting research, I will update my repository aperiodically.
 
-I will also update my weekly study plan here.
-
 ## program analysis & vulnerability Papers
 
 + [SoK Eternal War in Memory](./ProgramAnalysis&Vulnerability/SoK_Eternal_War_in_Memory.md)
@@ -18,3 +16,11 @@ I will also update my weekly study plan here.
 ## Symbolic Execution
 
 + [Symbolic Execution for Software Testing Three Decades Later](./SymbolicExecution/Symbolic_Execution_for_software_testing.md)
+
+
+
+## Virtual Machine Introspection
+
++ [NOR Towards Non-intrusive, Real-Time and OS-agnostic Introspection for Virtual
+  Machines in Cloud Environment](./VirtualMachineIntrospection/NOR.md)
++ [Nitro: Hardware-Based System Call Tracing for Virtual Machines](./VirtualMachineIntrospection/Nitro.md)
